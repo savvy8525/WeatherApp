@@ -13,7 +13,7 @@ const CurrentWeather = () => {
           <Text style={styles.highLow}>High: 8</Text>
           <Text style={styles.highLow}>Low: 6</Text>
         </View>
-          </View>
+      </View>
       <View style={styles.bodyWrapper}>
         <Text style={styles.description}>Its Sunny</Text>
         <Text style={styles.message}>Its perfect tshirt weather</Text>
